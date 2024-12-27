@@ -35,5 +35,3 @@ Advent of Cyber is your festive gateway into cyber security. Each day of this cy
 - **[Coerced Authentication: Relay All the Way](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2023-day-23-coerced-authentication-relay-all-the-way-5c165fad4bdf)**
 
 
-
-## [View Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DREXPKY6P0.pdf)
